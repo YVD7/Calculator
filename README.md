@@ -1,2 +1,2 @@
 # Calculator
-calculator  web application based on flask
+BMI calculator  web application based on flask
